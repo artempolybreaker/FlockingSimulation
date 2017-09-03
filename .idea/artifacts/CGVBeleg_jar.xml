@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CGVBeleg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CGVBeleg_jar</output-path>
+    <root id="archive" name="CGVBeleg.jar">
+      <element id="module-output" name="CGVBeleg" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lwjgl-2.9.3/jar/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lwjgl-2.9.3/jar/lwjgl_util.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/lwjgl-2.9.3/jar/lwjgl.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lwjgl-2.9.3/jar/lwjgl_util.jar" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
